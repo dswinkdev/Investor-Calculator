@@ -10,7 +10,7 @@ public class InvestorCalc {
         
         Scanner scan = new Scanner(System.in);
         
-        // Variables for investment details
+        // declarations
         int numInvestments = 0;
         double investmentAmt = 0;
         double sum = 0; 
